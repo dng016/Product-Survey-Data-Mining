@@ -1,3 +1,3 @@
 # Product-Survey-Data-Mining
 
-Applying data visualisation and data mining techniques on a prototype toothbrush survey data set
+Applying data mining techniques on a prototype toothbrush survey data set
